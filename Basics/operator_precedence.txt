@@ -1,0 +1,17 @@
+    1. Parentheses (()): Highest precedence. Operations inside parentheses are evaluated first.
+    2. Postfix Increment/Decrement (x++, x--)
+    3. Prefix Increment/Decrement (++x, --x)
+    4. Unary Operators (+x, -x, !x, ~x, *ptr, &x, sizeof)
+    5. Multiplication and Division (*, /, %)
+    6. Addition and Subtraction (+, -)
+    7. Shift Operators (<<, >>)
+    8. Relational Operators (<, <=, >, >=)
+    9. Equality Operators (==, !=)
+    10. Bitwise AND (&)
+    11. Bitwise XOR (^)
+    12. Bitwise OR (|)
+    13. Logical AND (&&)
+    14. Logical OR (||)
+    15. Conditional Operator (? :)
+    16. Assignment Operators (=, +=, -= and others)
+    17. Comma Operator (,): Lowest precedence.
